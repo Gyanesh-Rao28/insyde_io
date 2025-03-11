@@ -1,0 +1,22 @@
+
+{
+    "data":{
+        {
+            "username": "Gyanesh28",
+            "email": "gyaneshrao28@gmail.com",
+            "password": "gyan@2803"
+        },
+        {
+            "username": "Krish22",
+            "email": "krish22@gmail.com",
+            "password": "kri@2209"
+        }
+    }
+}
+
+
+// AuthContext.jsx?t=1741589099373: 41 The final argument passed to useEffect changed size between renders. The order and size of this array must remain constant.
+
+// Previous: []
+// Incoming: [eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2N2NkODdlNzA4Y2Y5NDM3YWQzMTc4MDUiLCJpYXQiOjE3NDE1ODgyNTEsImV4cCI6MTc0MjE5MzA1MX0.pQJTR8MEzMcLLdY43Dp19nX-r2vh1S6NgzB83oIsgDg
+// ]
