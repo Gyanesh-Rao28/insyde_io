@@ -118,32 +118,3 @@ For detailed setup instructions, please refer to the README files in the respect
     <td><img src="https://via.placeholder.com/400x300?text=Models+Gallery" alt="Models Gallery" /></td>
   </tr>
 </table>
-
-## Future Enhancements
-
-- Support for additional file formats (STEP, IGES, etc.)
-- Collaborative viewing and annotation
-- Version control for models
-- Advanced measurement tools
-- Sectioning and exploded views
-- Mobile app integration
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- [Three.js](https://threejs.org/) for 3D rendering
-- [React Three Fiber](https://github.com/pmndrs/react-three-fiber) for React integration with Three.js
-- [MongoDB](https://www.mongodb.com/) for database
-- [Express](https://expressjs.com/) for backend API
-- [Tailwind CSS](https://tailwindcss.com/) for styling
